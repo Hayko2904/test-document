@@ -72,7 +72,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 # in .env
-DB_HOST=db
-DB_DATABASE=laravelapp
-DB_USERNAME=laravelapp_user
-DB_PASSWORD=password
+DB_HOST=db 
+DB_DATABASE=laravelapp 
+DB_USERNAME=laravelapp_user 
+DB_PASSWORD=password 
